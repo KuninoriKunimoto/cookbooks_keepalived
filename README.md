@@ -3,6 +3,16 @@ Description
 
 Installs keepalived and generates the configuration file.
 
+
+Requirements
+============
+
+Cookbooks
+----------
+
+* chef-sysctl
+
+
 Usage
 =====
 
