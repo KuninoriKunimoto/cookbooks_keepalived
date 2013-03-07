@@ -11,7 +11,6 @@ Requirements
 
 * `chef-sysctl` 
 
-
 Usage
 =====
 
