@@ -9,8 +9,7 @@ Requirements
 
 ### Cookbooks
 
-* `chef-sysctl` 
-
+* [chef-sysctl](https://github.com/DonorsChoose/chef-sysctl "chef-sysctl")
 
 Usage
 =====
